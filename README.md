@@ -20,7 +20,9 @@ Interface
 
 ## Tutorial
 
-1. Start the program with python 3.  
-2. Enter the token of the user or the bot who have permissions.
-3. Enter the ID of the discord server you want to nuke.
-4. Enjoy !
+
+1. Start setup.bat to install all the requierements
+2. Now that everything required is installed, start main.py with python 3
+3. Enter the token of the user or the bot who have permissions.
+4. Enter the ID of the discord server you want to nuke.
+5. Enjoy !
